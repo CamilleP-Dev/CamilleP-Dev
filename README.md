@@ -26,11 +26,11 @@ However, I have always been attracted by the world of IT, first through video ga
 I am still working on some incredible learning projects. As soon as I feel confident in the results, I'll be happy to show you what I've been working on 😉
 
 ## My Hobbies 🩷
-🎮 Video Games: PC and Playstation
-📕 Reading and ✒️ Writing (trying) Fantasy books
-🌸 Manga and Anime : I have over 850+ mangas
-📸 Photography : using my Nikon D5300
-🎵 Flute : I took flute lessons for over 10 years
+- 🎮 Video Games: PC and Playstation
+- 📕 Reading and ✒️ Writing (trying) Fantasy books
+- 🌸 Manga and Anime : I have over 850+ mangas
+- 📸 Photography : using my Nikon D5300
+- 🎵 Flute : I took flute lessons for over 10 years
 
 <!--
 **CamilleP-Dev/CamilleP-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

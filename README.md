@@ -1,28 +1,29 @@
 # Hi ! My name is Camille🌸
 
-## Who I am ? 🐦‍🔥
+## Who am I? 🐦‍🔥
 I was born in 1996 and lives in Belgium.
-I am currently switching career path to start anew as a fullstack .NET developper.
+I am currently changing career paths to start anew as a Full-stack .NET developper.
 
-Before starting developing, I was a R&D Project Manager in the Food Industry.
-However, I was always I have always been attracted by the IT world, first through video games and later by opportunities through my internship and work experience to dabble with website creation, Copilot test, line coding in RStudio and some more. When I was in high school I even create a short educational game for a school projet.
+Before moving into software development, I was a R&D Project Manager in the food industry.
+However, I have always been attracted by the world of IT, first through video games and later through opportunities during my internships and professional experience. I was able to dabble with website creation, Copilot test, using code in RStudio for my statistics outputs, and much more. When I was in high school I even create a short educational game for a school projet.
 
-## What I am currently studing ? 📖
+## What I am currently studying? 📖
 - C# .NET 10.0
 - Javascript and Angular for .NET
 - Blazor
+- SQL and NoSQL databases
 - Docker and Kubernetes
 - ADO and LINQ
-- Web API
+- Web APIs
 - ASP.NET MVC
 - Agile and SCRUM projet management
 
-## What I am using to develop ? 🖥️
+## What I am using to develop? 🖥️
 - Visual Studio 2026
-- SSMS 2022
+- SQL Server Management Studio 2022
 
-## My best projet(s) 🛠️
-Still working on some incredible learning project. As soon as I am confident in the result, I will show you what I've been working on 😉
+## My best project(s) 🛠️
+I am still working on some incredible learning projects. As soon as I feel confident in the results, I'll be happy to show you what I've been working on 😉
 
 
 

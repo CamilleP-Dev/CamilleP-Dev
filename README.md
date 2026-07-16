@@ -1,5 +1,7 @@
 # Hi ! My name is Camille🌸
 
+![CodeWars Badge](https://www.codewars.com/users/CamilleP-Dev/badges/large)
+
 ## Who am I? 🐦‍🔥
 I was born in 1996 and lives in Belgium.
 I am currently changing career paths to start anew as a Full-stack .NET developper.
